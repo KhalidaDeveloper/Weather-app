@@ -28,19 +28,23 @@ body{
 }
 
 #entryHolder{
-   
+    grid-gap: 1em;
+    color: #f53f08;
 }
 
 #date{
- 
+  grid-gap: 1em;
+    color: #f53f08;
 }
 
 #temp{
-  
+   grid-gap: 1em;
+    color: #f53f08;
 }
 
 #content{
-   
+    grid-gap: 1em;
+    color: #f53f08;
 }
 
 .headline {
